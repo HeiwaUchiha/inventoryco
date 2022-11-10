@@ -1,6 +1,6 @@
     <!-- Footer -->
 
-    <footer class="p-4 text-center text-white" style="background-color: #04519bb3">
+    <footer class="p-4 text-center text-white" style="background-color: #4E40A6">
       <div class="container">
         <p class="m-0">Copyright &copy; Edo Innovates Web dev Bootcamp <?php echo date('Y'); ?></p>
       </div>

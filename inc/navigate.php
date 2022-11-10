@@ -15,9 +15,9 @@
       height: 80px;
     }
   </style>
-  <nav class="navbar navbar-expand-lg navbar-light sticky-top" style="background-image: none; background-color: #04519bb3;">
+  <nav class="navbar navbar-expand-lg navbar-light sticky-top" style="background-image: none; background-color:  rgb(78, 64, 166, 0.6);">
     <div class="container">
-      <a class="navbar-brand" href="index.php"><img src="image/Ico.png" height="70" alt="logo"></a><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"> </span></button>
+      <a class="navbar-brand" href="landing.html"><img src="image/Ico.png" height="70" alt="logo"></a><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"> </span></button>
       <div class="collapse navbar-collapse  mt-4 mt-lg-0" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item"><a class="nav-link" aria-current="page" href="about.php">About</a></li>
@@ -26,7 +26,7 @@
         </ul>
         <div class="d-flex ms-lg-4">
           <a class="btn button btn-secondary-outline" href="login.php">Login</a>
-          <a class="btn button ms-3" href="./capstone/login.php?action=register">Register</a></div>
+          <a class="btn button ms-3" href="login.php?action=register">Register</a></div>
       </div>
     </div>
   </nav>

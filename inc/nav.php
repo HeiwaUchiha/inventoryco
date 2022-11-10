@@ -13,7 +13,7 @@
 
 <style>
   nav {
-    background: #04519bb3;
+    background:  rgb(78, 64, 166, 0.6);;
     z-index: 0;
   }
   @media screen and (max-width: 500px) {
@@ -33,12 +33,7 @@
     <div class="container">
       <!-- navbar brand / title -->
       <a class="navbar-brand" href="index.php">
-        <span class="text-light fw-bold">
-          <h3 class="m-0">
-            <!-- <i class="bi bi-coin"></i> -->
-            IM-System
-          </h3>
-        </span>
+        
       </a>
       <!-- toggle button for mobile nav -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">

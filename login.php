@@ -1,11 +1,11 @@
 <?php
 	session_start();
 	
-	// Check if user is already logged in
-	// if(isset($_SESSION['loggedIn'])){
-	// 	header('Location: dashboard.php');
-	// 	exit();
-	// }
+	//Check if user is already logged in
+	if(isset($_SESSION['loggedIn'])){
+		header('Location: index.php');
+		exit();
+	}
 	
 	require_once('inc/config/constants.php');
 	require_once('inc/config/db.php');
